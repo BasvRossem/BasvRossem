@@ -1,7 +1,7 @@
 ### Hello, my name is Bas 👋
 
 ## Some things to get started:
-- 🛠️ I am working on a Miro template generator
+- 🛠️ I am working on my own time tracker to use when working
 - 🌱 I am learning TypeScript and SQL
 - 🤔 I am not looking for help on anything at the moment
 - 📫 You can find more about me on my [website]
